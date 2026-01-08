@@ -14,7 +14,7 @@
 - RAG (Retrieval-Augmented Generation)  
 - LangChain, LlamaIndex  
 - FAISS, Vector Databases  
-- Promt engineering
+- Prompt engineering
 
       Automation & AI Agents
 - AI agent workflows  
