@@ -7,7 +7,7 @@
 
    Tech Stack
 
-     AI / GenAI
+       AI / GenAI
 - Python, NumPy, Pandas  
 - Machine Learning, NLP  
 - Large Language Models (LLMs)  
